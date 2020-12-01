@@ -1,20 +1,60 @@
-.card {
-    background-size: cover;
-    background-position: center;
-    background-clip: content-box;
-    border: 6px solid white;
-    height: 400px;
-    width: 400px;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
-    position: relative;
-    margin: 0 auto;
-    margin-top: 30px;
-  }
+a{
   
-  .card .fa-spinner {
-    font-size: 180px;
-    position: absolute;
-    left: 25%;
-    top: 25%;
+  margin:5px;
+}
+
+.button{
+  margin-top: 10px;
+ 
+ }
+
+.card {
+  
+  height:80%;
+  max-width: 80%;
+  margin-top:50px;
+  margin-bottom: 30px;
+  padding:50px;
+  outline: 1px solid round black;
+  border-radius: 30px;
+  float:left;
+  
+ 
+
   }
+
+  .card-title{
+    margin-top: 10px;
+  }
+
+
+  .card-body img {
+    max-width:100%;
+    margin:10px;
+    
+  }
+
+  
+  
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+  
+  
+
+ 
+
+  
   

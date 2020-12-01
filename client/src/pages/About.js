@@ -1,15 +1,19 @@
 import React from "react";
-import Image from "../components/Image";
+import Hero from "../components/Hero";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
+import Footer from "../components/Footer"
+
 
 function About() {
   return (
     <div>
-      <Image backgroundImage="gradient.jpg">
-      </Image>
+      <Hero backgroundImage="computer.jpg">
+
+      </Hero>
       <Container style={{ marginTop: 30 }}>
+        <Row><div className = "circleImage" style= {{backgroundImage:"url(/images/me.png)"}}></div></Row>
         <Row>
           <Col size="md-12">
             <h1>Aida Blinstrubyte</h1>
@@ -18,9 +22,9 @@ function About() {
         <Row>
           <Col size="md-12">
             <p>
-            Im originally from Lithuania. I grew up in the suburbs of Chicago, but now I am currently living in Chicago, Illinois.
-                  I've been a hair colorist for the past six years of my life. I have an obsession with collecting all types of different cacti. My dogs name is Bella 
-                  and she is 10 years old. I love traveling to new warm locations that I havent been to before. 
+            Hello! My name is Aida Blinstrubyte. Im originally from Lithuania. I grew up in the suburbs of Chicago, but now I am currently living in Chicago, Illinois.
+                  I'm a front end developer that is a problem solver and an organised person. I am I have an obsession with collecting all types of different cacti. 
+                  I love traveling and seeing what the world has to offer. 
                   In my free time i love discovering new pescatarian dishes, hiking, and doing yoga.</p>
             <p>
               
@@ -28,7 +32,9 @@ function About() {
           </Col>
         </Row>
       </Container>
+      <Footer></Footer>
     </div>
+    
   );
 }
 

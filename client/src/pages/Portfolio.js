@@ -45,6 +45,15 @@ const linkArr = [
 
 
 
+  },
+  {
+    title: "Bobbies Hobbies",
+    image: "/images/bobbylayout.png",
+    link: "https://boiling-scrubland-76321.herokuapp.com",
+    gitLink: "https://github.com/eptomlinson/BobbysHobbys"
+
+
+
   }
 
 ]

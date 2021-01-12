@@ -22,10 +22,8 @@ function About() {
         <Row>
           <Col size="md-12">
             <p>
-            Hello! My name is Aida Blinstrubyte. Im originally from Lithuania. I grew up in the suburbs of Chicago, but now I am currently living in Chicago, Illinois.
-                  I'm a front end developer that is a problem solver and an organised person. I am I have an obsession with collecting all types of different cacti. 
-                  I love traveling and seeing what the world has to offer. 
-                  In my free time i love discovering new pescatarian dishes, hiking, and doing yoga.</p>
+            Full Stack web developer with a background in Cosmetology. Certificate in Full Stack Web Development from Northwestern University in Chicago. Newly developed skills in HTML, CSS, JavaScript, MongoDB, APIs, MySQL, Node.js, React, and responsive web design. Strengths in teamwork, communication, and collaboration.Known for having a great eye in design and enthusiasm for developing apps that are mobile friendly. With every project my goal is to have the user have the best experience possible and everything to be properly functioning. I worked on a team of four towards a React app and my main focus was the design and functionality. I’m excited to express my experience from my cosmetology background, joined together with my technical skills, and a meticulous eye for detail making me an asset to any driven team. 
+</p>
             <p>
               
             </p>

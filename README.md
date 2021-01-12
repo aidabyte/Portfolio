@@ -14,7 +14,7 @@
 Deployed App:https://gentle-atoll-25305.herokuapp.com
 
 ## Screenshot
-![Example screenshot](employeedirectory.png)
+![Example screenshot](aboutmee.png)
 
 
 ## Technologies

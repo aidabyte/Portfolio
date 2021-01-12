@@ -8,7 +8,7 @@
 * [Link](#Link)
 * [Screenshot](#screenrecording)
 * [Technologies](#Technologies)
-* [Status](#status)
+
 
 ## Link
 Deployed App:https://gentle-atoll-25305.herokuapp.com

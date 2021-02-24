@@ -7,7 +7,7 @@ function SingleCard() {
             <div class="cardss mx-auto">
                 <h5 class="card-header">Contact</h5>
                 <div class="card-body">
-                    <h5 class="card-title">Email: ablinstrubyte@gmail.com</h5>
+                    <h5 class="card-title">Email: a.blinstrubyte@outlook.com</h5>
                    
                     <h5 class="card-title"></h5>
                     <a href="https://www.linkedin.com/in/aida-blinstrubyte-04a3091b6/" target="_blank"

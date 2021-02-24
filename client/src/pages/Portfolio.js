@@ -13,7 +13,8 @@ const linkArr = [
     title: "NoteTaker",
     image: "/images/NoteTaker.png",
     link: "https://serene-anchorage-84914.herokuapp.com/",
-    gitLink: "https://github.com/aidabyte/Note-Taker-Hw"
+    gitLink: "https://github.com/aidabyte/Note-Taker-Hw",
+    summary: ""
 
 
 
@@ -22,7 +23,8 @@ const linkArr = [
     title: "Employee",
     image: "/images/employeedirectory.png",
     link: "https://obscure-reef-68172.herokuapp.com/",
-    gitLink: "https://github.com/aidabyte/employee-directory"
+    gitLink: "https://github.com/aidabyte/employee-directory",
+    summary: ""
 
 
 
@@ -32,7 +34,8 @@ const linkArr = [
     title: "Budget Tracker",
     image: "/images/budgett.png",
     link: "https://shrouded-brook-89856.herokuapp.com/",
-    gitLink: "https://github.com/aidabyte/Budget-Tracker"
+    gitLink: "https://github.com/aidabyte/Budget-Tracker",
+    summary: ""
 
 
 
@@ -41,7 +44,8 @@ const linkArr = [
     title: "Fitness Tracker",
     image: "/images/Fitness.png",
     link: "https://fathomless-savannah-49970.herokuapp.com/",
-    gitLink: "https://github.com/aidabyte/Fitness-Tracker-Hw"
+    gitLink: "https://github.com/aidabyte/Fitness-Tracker-Hw",
+    summary:""
 
 
 
@@ -50,7 +54,8 @@ const linkArr = [
     title: "Bobbies Hobbies",
     image: "/images/bobbylayout.png",
     link: "https://boiling-scrubland-76321.herokuapp.com",
-    gitLink: "https://github.com/eptomlinson/BobbysHobbys"
+    gitLink: "https://github.com/eptomlinson/BobbysHobbys",
+    summary: ""
 
 
 

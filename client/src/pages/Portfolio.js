@@ -14,7 +14,9 @@ const linkArr = [
     image: "/images/NoteTaker.png",
     link: "https://serene-anchorage-84914.herokuapp.com/",
     gitLink: "https://github.com/aidabyte/Note-Taker-Hw",
-    summary: "A digital notepad created to save, delete, and add notes so the user can remember what they wrote down when it was important. If you refresh the page the notes will still be there."
+    summary: "A digital notepad created to save, delete, and add notes so the user can remember what they wrote down when it was important. If you refresh the page the notes will still be there.",
+    technologies: ""
+
 
 
 
@@ -24,7 +26,8 @@ const linkArr = [
     image: "/images/employeedirectory.png",
     link: "https://obscure-reef-68172.herokuapp.com/",
     gitLink: "https://github.com/aidabyte/employee-directory",
-    summary: "A directory of employees that consist of the employees name, age, picture, and country. An employer can access a specific employee by typing in their name or the first letters of their name. Also, can search in alphabetical order."
+    summary: "A directory of employees that consist of the employees name, age, picture, and country. An employer can access a specific employee by typing in their name or the first letters of their name. Also, can search in alphabetical order.",
+    technologies: ""
 
 
 
@@ -35,7 +38,8 @@ const linkArr = [
     image: "/images/budgett.png",
     link: "https://shrouded-brook-89856.herokuapp.com/",
     gitLink: "https://github.com/aidabyte/Budget-Tracker",
-    summary: "Budget Tracker application allows the user to access their withdrawals and deposits while being offline or online. The user will be able to add expenses and deposits to their budget."
+    summary: "Budget Tracker application allows the user to access their withdrawals and deposits while being offline or online. The user will be able to add expenses and deposits to their budget.",
+    technologies: ""
 
 
 
@@ -45,7 +49,8 @@ const linkArr = [
     image: "/images/Fitness.png",
     link: "https://fathomless-savannah-49970.herokuapp.com/",
     gitLink: "https://github.com/aidabyte/Fitness-Tracker-Hw",
-    summary:"An application that creates and tracks daily workouts by logging the multiple exercises that are put in for that day into a database. In addition, you can view the page of the last seven workouts and their summary."
+    summary:"An application that creates and tracks daily workouts by logging the multiple exercises that are put in for that day into a database. In addition, you can view the page of the last seven workouts and their summary.",
+    technologies: ""
 
 
 
@@ -55,7 +60,9 @@ const linkArr = [
     image: "/images/bobbylayout.png",
     link: "https://boiling-scrubland-76321.herokuapp.com",
     gitLink: "https://github.com/eptomlinson/BobbysHobbys",
-    summary: "App provides a user to be able to view and like different hobbies that other users have previously uploaded. Also, they can post their own hobby that they are interested in by providing an image, description, and the cost of the hobby." 
+    summary: "App provides a user to be able to view and like different hobbies that other users have previously uploaded. Also, they can post their own hobby that they are interested in by providing an image, description, and the cost of the hobby.",
+    technologies: ""
+
 
 
 

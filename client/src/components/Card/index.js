@@ -14,6 +14,7 @@ function Card(props) {
             <div className="card-body">
               <h5 className="card-title title">{props.data.title}</h5>
               <img src={props.data.image} alt="project " />
+              <p className="summary">{props.data.summary}</p>
               <a href={props.data.link} target="_blank"className="btn btn-dark">Website</a>
               <a href={props.data.gitLink} target="_blank" onClick="window.open{props.data.gitLink}"className="btn btn-dark">Github</a>
               <br></br>

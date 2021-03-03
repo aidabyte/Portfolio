@@ -13,7 +13,7 @@ function SingleCard() {
                     <a href="https://www.linkedin.com/in/aida-blinstrubyte-04a3091b6/" target="_blank"
                 class="btn btn-dark">LinkedIn</a>
                     <a href="https://github.com/aidabyte" class="btn btn-dark" target="_blank">Github</a>
-                    <a href="./Resume.pdf" class="btn btn-dark" target="_blank">Resume</a>
+                    <a href="./ResumeFSF.pdf" class="btn btn-dark" target="_blank">Resume</a>
                 </div>
             </div>
         </div>

@@ -11,7 +11,7 @@
 
 
 ## Link
-Deployed App:https://gentle-atoll-25305.herokuapp.com
+Deployed App:https://aida-blin.herokuapp.com/
 
 ## Screenshot
 ![Example screenshot](aboutmee.png)

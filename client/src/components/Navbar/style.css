@@ -1,3 +1,17 @@
 nav.navbar.navbar-default {
     margin-bottom: 0;
+    
   }
+
+nav.navbar-expand-lg {
+  background-color: black;
+
+}
+
+.nav-link:hover{
+  color: rgb(87, 187, 233) !important;
+  
+  
+  }
+
+

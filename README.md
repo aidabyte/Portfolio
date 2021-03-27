@@ -1,4 +1,4 @@
-# Unit 20 React Homework: React Portfolio
+# React Portfolio
 
 # Genral Info
 > A web app of my portfolio of my past projects, about me section, and a contact section.
@@ -11,7 +11,7 @@
 
 
 ## Link
-Deployed App:https://gentle-atoll-25305.herokuapp.com
+Deployed App:https://aida-blin.herokuapp.com/
 
 ## Screenshot
 ![Example screenshot](aboutmee.png)

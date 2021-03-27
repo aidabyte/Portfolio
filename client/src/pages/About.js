@@ -12,7 +12,7 @@ function About() {
       <Hero backgroundImage="computer.jpg">
 
       </Hero>
-      <Container style={{ marginTop: 30 }}>
+      <Container style={{ marginTop: 30 }} style={{ backgroundColor: "black" , color: "white"}}>
         <Row><div className = "circleImage" style= {{backgroundImage:"url(/images/me.png)"}}></div></Row>
         <Row>
           <Col size="md-12">

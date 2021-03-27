@@ -13,7 +13,7 @@ function About() {
 
       </Hero>
       <Container style={{ marginTop: 30 }} style={{ backgroundColor: "black" , color: "white"}}>
-        <Row><div className = "circleImage" style= {{backgroundImage:"url(/images/portrait.png)"}}></div></Row>
+        <Row><div className = "circleImage" style= {{backgroundImage:"url(/images/portrait.jpg)"}}></div></Row>
         <Row>
           <Col size="md-12">
             <h1>Aida Blinstrubyte</h1>

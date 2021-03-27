@@ -12,7 +12,7 @@ const linkArr = [
   {
     title: "NoteTaker",
     image: "/images/NoteTaker.png",
-    link: "https://serene-anchorage-84914.herokuapp.com/",
+    link: "https://note-journal-taker.herokuapp.com/",
     gitLink: "https://github.com/aidabyte/Note-Taker-Hw",
     summary: "A digital notepad created to save, delete, and add notes so the user can remember what they wrote down when it was important. If you refresh the page the notes will still be there.",
     technologies: "Node js, express, and postman"
@@ -24,7 +24,7 @@ const linkArr = [
   {
     title: "Employee",
     image: "/images/employeedirectory.png",
-    link: "https://obscure-reef-68172.herokuapp.com/",
+    link: "https://dir-of-employees.herokuapp.com/",
     gitLink: "https://github.com/aidabyte/employee-directory",
     summary: "A directory of employees that consist of the employees name, age, picture, and country. An employer can access a specific employee by typing in their name or the first letters of their name. Also, can search in alphabetical order.",
     technologies: "Node js, Inquirer, console tables, and MYSQL"

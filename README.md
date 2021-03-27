@@ -1,4 +1,4 @@
-# Unit 20 React Homework: React Portfolio
+# React Portfolio
 
 # Genral Info
 > A web app of my portfolio of my past projects, about me section, and a contact section.

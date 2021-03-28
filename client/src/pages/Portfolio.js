@@ -61,7 +61,7 @@ const linkArr = [
     link: "https://boiling-scrubland-76321.herokuapp.com",
     gitLink: "https://github.com/eptomlinson/BobbysHobbys",
     summary: "App provides a user to be able to view and like different hobbies that other users have previously uploaded. Also, they can post their own hobby that they are interested in by providing an image, description, and the cost of the hobby.",
-    technologies: "React, Javascript, Bootstrap, Reactstrap, Cloudinary, MongoDB, Mongoose, Express, Axios, and Passport"
+    technologies: "React,Javascript,Bootstrap,Reactstrap,Cloudinary, MongoDB, Mongoose, Express, Axios, and Passport"
 
 
 

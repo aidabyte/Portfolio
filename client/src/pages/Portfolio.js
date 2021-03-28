@@ -15,7 +15,7 @@ const linkArr = [
     link: "https://note-journal-taker.herokuapp.com/",
     gitLink: "https://github.com/aidabyte/Note-Taker-Hw",
     summary: "A digital notepad created to save, delete, and add notes so the user can remember what they wrote down when it was important. If you refresh the page the notes will still be there.",
-    technologies: "Node js, express, and postman"
+    technologies: "Node js, Express, and Postman"
 
 
 
@@ -27,7 +27,7 @@ const linkArr = [
     link: "https://dir-of-employees.herokuapp.com/",
     gitLink: "https://github.com/aidabyte/employee-directory",
     summary: "A directory of employees that consist of the employees name, age, picture, and country. An employer can access an employee by typing in their name or the first few letters. ",
-    technologies: "Node js, Inquirer, console tables, and MYSQL"
+    technologies: "Node js, Inquirer, Console Tables, and MYSQL"
 
 
 

@@ -22,7 +22,7 @@ const linkArr = [
 
   },
   {
-    title: "Employee",
+    title: "Employee Directory",
     image: "/images/employeedirectory.png",
     link: "https://dir-of-employees.herokuapp.com/",
     gitLink: "https://github.com/aidabyte/employee-directory",

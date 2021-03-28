@@ -10,7 +10,7 @@ const picArr = ["/images/employeedirectory.png", "/images/NoteTaker.png", "/imag
 const linkArr = [
 
   {
-    title: "NoteTaker",
+    title: "Note Taker",
     image: "/images/NoteTaker.png",
     link: "https://note-journal-taker.herokuapp.com/",
     gitLink: "https://github.com/aidabyte/Note-Taker-Hw",
@@ -26,7 +26,7 @@ const linkArr = [
     image: "/images/employeedirectory.png",
     link: "https://dir-of-employees.herokuapp.com/",
     gitLink: "https://github.com/aidabyte/employee-directory",
-    summary: "A directory of employees that consist of the employees name, age, picture, and country. An employer can access a specific employee by typing in their name or the first letters of their name. Also, can search in alphabetical order.",
+    summary: "A directory of employees that consist of the employees name, age, picture, and country. An employer can access an employee by typing in their name or the first few letters. ",
     technologies: "Node js, Inquirer, console tables, and MYSQL"
 
 

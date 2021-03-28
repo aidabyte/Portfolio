@@ -11,8 +11,6 @@ function Contact() {
         
         <SingleCard>
       </SingleCard>
-        
-       
         <Footer>  
         </Footer>
 

@@ -8,10 +8,10 @@ import Footer from "../components/Footer";
 function Contact() {
     return (
       <div>
-        <Container>
+        
         <SingleCard>
       </SingleCard>
-        </Container>
+        
        
         <Footer>  
         </Footer>

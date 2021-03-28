@@ -18,7 +18,7 @@ function Card(props) {
               <p className="technologies">{props.data.technologies}</p>
               <a href={props.data.link} target="_blank"className="btn btn-dark">Website</a>
               <a href={props.data.gitLink} target="_blank" onClick="window.open{props.data.gitLink}"className="btn btn-dark">Github</a>
-              <br></br>
+              
               
             </div>
           </div>

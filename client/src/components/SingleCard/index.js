@@ -4,7 +4,7 @@ import "./style.css"
 function SingleCard() {
     return (
         <div>
-            <div class="cardss mx-auto">
+            <div class="cardss">
                 <h5 class="card-header">Contact</h5>
                 <div class="card-body">
                     <h5 class="card-title">Email: a.blinstrubyte@outlook.com</h5>
@@ -17,6 +17,7 @@ function SingleCard() {
                 </div>
             </div>
         </div>
+        
         
     );
 }

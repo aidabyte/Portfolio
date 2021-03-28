@@ -8,7 +8,6 @@ function Card(props) {
  <div>
   <div className="row">
     <div className="container-fluid">
-      <div className="col-sm-3 col-sm-9">
       
           <div className="card">
             <div className="card-body">
@@ -22,7 +21,6 @@ function Card(props) {
               
             </div>
           </div>
-        </div>
         </div>
         </div>
         </div>

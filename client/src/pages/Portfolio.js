@@ -15,7 +15,7 @@ const linkArr = [
     link: "https://note-journal-taker.herokuapp.com/",
     gitLink: "https://github.com/aidabyte/Note-Taker-Hw",
     summary: "A digital notepad created to save, delete, and add notes so the user can remember what they wrote down when it was important. If you refresh the page the notes will still be there.",
-    technologies: "Node js, Express, and Postman"
+    technologies: "Node.js, Express, and Postman"
 
 
 
@@ -27,7 +27,7 @@ const linkArr = [
     link: "https://dir-of-employees.herokuapp.com/",
     gitLink: "https://github.com/aidabyte/employee-directory",
     summary: "A directory of employees that consist of the employees name, age, picture, and country. An employer can access an employee by typing in their name or the first few letters. ",
-    technologies: "Node js, Inquirer, Console Tables, and MYSQL"
+    technologies: "Node.js, Inquirer, Console Tables, and MYSQL"
 
 
 
@@ -39,7 +39,7 @@ const linkArr = [
     link: "https://shrouded-brook-89856.herokuapp.com/",
     gitLink: "https://github.com/aidabyte/Budget-Tracker",
     summary: "Budget Tracker application allows the user to access their withdrawals and deposits while being offline or online. The user will be able to add expenses and deposits to their budget.",
-    technologies: "Node js, Express, MongoDB, Mongoose, Morgan, Heroku, HTML, CSS"
+    technologies: "Node.js, Express, MongoDB, Mongoose, Morgan, Heroku, HTML, CSS"
 
 
 
@@ -50,7 +50,7 @@ const linkArr = [
     link: "https://fathomless-savannah-49970.herokuapp.com/",
     gitLink: "https://github.com/aidabyte/Fitness-Tracker-Hw",
     summary:"An application that creates and tracks daily workouts by logging the multiple exercises that are put in for that day into a database. In addition, you can view the page of the last seven workouts and their summary.",
-    technologies: "Node js, Express, Mongodb, Mongoose, Heroku, HTML, and CSS"
+    technologies: "Node.js, Express, Mongodb, Mongoose, Heroku, HTML, and CSS"
 
 
 

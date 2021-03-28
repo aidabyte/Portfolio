@@ -73,27 +73,28 @@ const linkArr = [
 
 function Portfolio() {
   return (
-    <div>
-      <Container>
-        
-        <div className="row" >
-          {linkArr.map(item => {
-            return <Card data={item} />
-          })}
-         
-        </div>
-        
 
-      </Container>
-      <Footer>
-      </Footer>
+<div>
+<Container>
+<div class='row'>
+{linkArr.map(item => {
+return (
+<div class='col-md-6'>
+  <Card data= {item}/>
+</div>
+)
+})}
+</div>
+</Container>
+<Footer>
+</Footer>
 
 
 
 
-    </div>
+</div>
 
-  );
+);
 }
 
 export default Portfolio;

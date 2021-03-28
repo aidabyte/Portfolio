@@ -1,13 +1,9 @@
-a{
-  
-  margin:5px;
+.btn{
+  margin-right: .5rem;
 }
-
 .card {
-  
   padding: .75rem;
   margin: 1rem;
-  /* padding:5px; */
   border-radius: 1rem;
   border-color: grey;
   background-color: #151515;
@@ -24,8 +20,8 @@ a{
     padding-right: 15px;
     padding-bottom: 30px;
     
-    
   }
+
 
   
   

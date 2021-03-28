@@ -1,6 +1,21 @@
-.cardss{
-    width: 800px;
-    margin:50px;
-   
-  
+body{
+    background-color: black;
 }
+
+.cardss{
+    background-color: #151515;
+    border-radius: 30px;
+    border: 1px solid grey;
+    width: 900px;
+    color:white;
+    margin: 1rem auto;
+  
+   
+    
+
+}
+
+.card-header{
+border-color: grey;
+}
+

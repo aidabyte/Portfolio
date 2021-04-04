@@ -49,7 +49,7 @@ const linkArr = [
     image: "/images/Fitness.png",
     link: "https://fathomless-savannah-49970.herokuapp.com/",
     gitLink: "https://github.com/aidabyte/Fitness-Tracker-Hw",
-    summary:"An application that creates and tracks daily workouts by logging the multiple exercises that are put in for that day into a database. In addition, you can view the page of the last seven workouts and their summary.",
+    summary:"An application that creates and tracks daily workouts by logging the multiple exercises that are put in for that day into a database. Also, you can view the page of the last seven workouts.",
     technologies: "Node.js, Express, Mongodb, Mongoose, Heroku, HTML, and CSS"
 
 

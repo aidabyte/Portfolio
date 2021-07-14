@@ -10,7 +10,6 @@ function SingleCard() {
     return (
         <div>
             <div class="cardss">
-                {/* <h5 class="card-header">Contact</h5> */}
                 <div class="card-body">
                     <a href="mailto: a.blinstrubyte@outlook.com" target="_blank" class="btn btn-dark btnn">Email <MdEmail/></a>
                     

@@ -3,18 +3,11 @@ body{
 }
 
 .cardss{
-    /* background-color: #151515; */
     border-radius: 30px;
-    /* border: 1px solid grey; */
     width: 900px;
-    /* color:white; */
     margin: 4rem auto;
 
 }
-
-/* .card-header{
-border-color: grey;
-} */
 
 .btnn {
     font-size: 40px;

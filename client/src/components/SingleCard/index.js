@@ -14,7 +14,7 @@ function SingleCard() {
                     <a href="mailto: a.blinstrubyte@outlook.com" target="_blank" class="btn btn-dark btnn">Email <MdEmail/></a>
                     
                     <a href="https://www.linkedin.com/in/aida-blinstrubyte-04a3091b6/" target="_blank"
-                class="btn btn-dark btnn">LinkedIn <FaLinkedin/><i class="fab fa-linkedin-in"></i></a>
+                class="btn btn-dark btnn">LinkedIn <FaLinkedin/><i class="fa fa-linkedin-in"></i></a>
         
                     <a href="https://github.com/aidabyte" class="btn btn-dark btnn" target="_blank">Github <FaGithub/></a> 
                     <a href="./FSF_RESUME.pdf" class="btn btn-dark btnn" target="_blank">Resume <FiFileText/></a>
